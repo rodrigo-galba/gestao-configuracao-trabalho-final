@@ -13,3 +13,9 @@ Este arquivo de configuração contém pares de chave-valor que são usados para
 - `DATABASE_URL`: A URL do arquivo de banco de dados SQLite usado pela aplicação.
 
 Certifique-se de atualizar os valores dessas opções de acordo com seus requisitos específicos.
+
+commit fc896a6eae428200143489fc4138d1d510c264ab (HEAD -> dev, origin/dev)
+Author: Rodrigo Galba <rodrigogalba@gmail.com>
+Date:   Sun Jun 9 15:33:49 2024 -0300
+
+    Documentacao das variaveis de ambiente
